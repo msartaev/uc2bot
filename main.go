@@ -44,7 +44,7 @@ func main() {
 			bot.Send(msg)
 			t = time.Now()
 		} else if update.Message.Text == "/help" {
-			msg := tgbotapi.NewMessage(update.Message.Chat.ID, "Hello world, all regrets to @BrainFair")
+			msg := tgbotapi.NewMessage(update.Message.Chat.ID, "Hello world, Viva la @BrainFair!\n You can make me better: https://github.com/brainfair/uc2bot")
 			msg.ReplyToMessageID = update.Message.MessageID
 			bot.Send(msg)
 		}
