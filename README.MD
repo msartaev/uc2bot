@@ -1,1 +1,2 @@
+[![Board Status](https://sartaev.visualstudio.com/e3b2482d-8b6c-4960-a1f8-c7f6e3a37a3a/fdd1b57a-2d45-48eb-adfc-a7a3db74539a/_apis/work/boardbadge/83c80c30-3b50-43ec-931a-0f07fb8a652d)](https://sartaev.visualstudio.com/e3b2482d-8b6c-4960-a1f8-c7f6e3a37a3a/_boards/board/t/fdd1b57a-2d45-48eb-adfc-a7a3db74539a/Microsoft.RequirementCategory)
 Same uc2 bot developing
